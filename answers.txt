@@ -1,0 +1,23 @@
+1. What is slope?
+
+Slope is represented by model coefficients. It indicates how much the target variable changes when a feature increases by one unit.
+
+2. What is intercept?
+
+Intercept is the predicted value when all feature values are zero.
+
+3. What do they mean?
+
+The slope shows the impact of each feature on marks. The intercept is the baseline prediction.
+
+1. What is MAE?
+
+Mean Absolute Error measures the average prediction error.
+
+2. What is R² Score?
+
+R² measures how much variation in the target variable is explained by the model.
+
+3. Is the model performing well?
+
+Yes. If MAE is low and R² is close to 1, the model performs well.
